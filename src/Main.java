@@ -134,6 +134,7 @@ public class Main {
         System.out.println("구구단출력");
         i = 2;
         while (i < 9) {
+
             System.out.println(" --- " + i + " --- ");
             int j = 1;
             while (j < 10) {
