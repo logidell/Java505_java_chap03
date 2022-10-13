@@ -1,3 +1,5 @@
+package studyArry;
+
 public class array {
 
     public static void main(String[] args) {
@@ -64,7 +66,7 @@ public class array {
 //        array4[0] = 10;
 //        array4[1] = 20;
 
-//        Q. int 타입의 변수 int /array 를 생성하고 크기를 10으로 설정한 후 각 index에 1~10까지의 데이터 입력 후
+//        Q. int 타입의 변수 int /studyArry.array 를 생성하고 크기를 10으로 설정한 후 각 index에 1~10까지의 데이터 입력 후
 //        저장된 데이터를 출력
 
 //        int array10[];

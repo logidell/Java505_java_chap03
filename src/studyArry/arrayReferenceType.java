@@ -1,3 +1,5 @@
+package studyArry;
+
 import java.util.Scanner;
 
 public class arrayReferenceType {

@@ -1,10 +1,12 @@
+package studyArry;
+
 public class array2Ch {
     public static void main(String[] args) {
 //        기본 : 1차원 배열 / 선 / 체스의 한 줄 , 엑셀의 한 줄/ 배열 요소로 데이터를 가지는 배열
 //        2차원 배열 : 1차 요소 가지고 있는 배열 / 면 / 체스판 바닥 , 엑셀 격자
 //        3차원 배열 : 2차원 요소 가지고 있는 배열  체스 , 엑셀 페이지
 
-//        int array [행 크기 ] [열 크기]
+//        int studyArry.array [행 크기 ] [열 크기]
         System.out.println("==================다차원 배열 ");
         System.out.println("1차원 배열 선언");
         int arr1[] = {1, 2, 3, 4, 5};

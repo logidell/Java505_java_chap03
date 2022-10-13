@@ -1,3 +1,5 @@
+package studyArry;
+
 public class continueBreak {
     public static void main(String[] args) {
 
